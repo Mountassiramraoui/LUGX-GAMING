@@ -81,9 +81,10 @@ padding: 0px 10px;
     margin: 0;
 }
 .carte{
-    width: 192px;
+    width: 190px;
     background-color: #EEEEEE;
     border-radius: 20px;
+   ;
 }
 .carte-info{
     display: flex;
@@ -103,4 +104,54 @@ padding: 0px 10px;
 }
 .carte-info img{
     width: 49px;
+}
+.carte3{
+    width: 190px;
+    background-color: #EEEEEE;
+    border-radius: 20px;
+}
+.carte3-info{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    align-items: center;
+}
+.carte3-info img{
+    
+}
+/* most played */
+.trending2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.most-games h4{
+    margin: 0;
+    
+}
+.container h4{
+    font-size: 25px;
+}
+.most-games {
+    padding: 20px;
+}
+.theme1{
+    border-radius: 20px 20px 0 0;
+    width: 190px;
+    height: 200px;
+}
+.theme2{
+    border-radius: 20px 20px 0 0;
+    width: 190px;
+    height: 200px;
+}
+.theme3{
+    border-radius: 20px 20px 0 0;
+    width: 190px;
+    height: 200px;
+}
+.theme4{
+    border-radius: 20px 20px 0 0;
+    width: 190px;
+    height: 200px;
 }
